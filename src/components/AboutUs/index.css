@@ -1,0 +1,177 @@
+.about-banner-container {
+  background-image: url("https://static.wixstatic.com/media/dc8146_d1a8ecaf5630485fa01ddf4efab379a9~mv2.webp/v1/fill/w_1551,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dc8146_d1a8ecaf5630485fa01ddf4efab379a9~mv2.webp");
+  margin-top: 0px;
+  background-size: cover;
+  height: 65vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: end;
+  padding-right: 400px;
+}
+
+.heading-main {
+  font-weight: 600;
+  color: #000000;
+  font-size: 32px;
+  font-family: "Roboto", sans-serif;
+  padding-bottom: 80px;
+}
+
+.get-to-know-main-container {
+  background-image: url("https://res.cloudinary.com/dffu1ungl/image/upload/v1713798297/Tiles/Sanitary/w39kzgz1dtmiyysaioa1.jpg");
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  height: 70vh;
+  font-family: "Roboto", sans-serif;
+}
+
+.get-to-know-container {
+  background-color: #000000;
+  width: 40%;
+  max-height: 100%;
+  padding: 28px;
+  padding-left: 60px;
+  margin-right: 40px;
+}
+
+.get-to-topic {
+  color: var(--text-color);
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 2.5px;
+  margin-left: 40px;
+}
+
+.get-to-content {
+  color: var(--text-color);
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.mission-vision-main-container {
+  background-image: url("https://static.wixstatic.com/media/dc8146_925f2b0e0f224f1dbf70d5f2fd927d16~mv2.jpg/v1/fill/w_1480,h_500,al_c,q_85,enc_auto/dc8146_925f2b0e0f224f1dbf70d5f2fd927d16~mv2.jpg");
+  background-size: cover;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-left: 100px;
+  gap: 50px;
+}
+
+.mission-left-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 36%;
+}
+
+.mission-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.mission-vision-heading {
+  font-family: "Roboto", sans-serif;
+  font-size: 26px;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.mission-vision-content {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  margin-top: 0px;
+  letter-spacing: 1.1px;
+  line-height: 1.3;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.mission-image {
+  height: 400px;
+}
+
+.experience-clients-container {
+  background-image: url("https://static.wixstatic.com/media/dc8146_a6e6096a7ee7412aa9b3918f95f8e571f000.jpg/v1/fill/w_1280,h_295,al_c,q_85,usm_0.33_1.00_0.00,enc_auto/dc8146_a6e6096a7ee7412aa9b3918f95f8e571f000.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.happ-clients-container {
+  width: 40%;
+  background-color: rgba(219, 215, 215, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.happy-clients-heading {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  color: #000000;
+  font-weight: 500;
+  text-align: center;
+}
+
+.counts-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+}
+
+.count {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  color: #000000;
+}
+
+.count h1 {
+  font-weight: bold;
+}
+
+.count h2 {
+  font-weight: 600;
+  margin-top: 0px;
+}
+
+.our-strength-main-container {
+  background-image: url("https://img.freepik.com/premium-photo/white-conference-room-modern-company-office-with-concrete-floor-large-windows-long_933530-2300.jpg?w=1060");
+  background-size: cover;
+}
+
+.our-strength-container {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #000000;
+  width: 50%;
+  padding: 30px;
+  padding-left: 130px;
+}
+
+.our-strength-para {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  color: var(--text-color);
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 1.2px;
+}

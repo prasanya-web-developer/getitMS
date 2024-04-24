@@ -1,0 +1,66 @@
+.tiles-types-list-main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.adhesive-banner-image {
+  width: 100%;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 30px;
+  gap: 30px;
+  background-color: #000000;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding: 30px;
+  gap: 30px;
+  background-color: #9ea2a8;
+}
+
+.adhesive-image {
+  height: 300px;
+}
+
+.container-heading {
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  color: #ad1027;
+  margin-top: 0px;
+}
+
+.continer1-content {
+  width: 40%;
+}
+
+.continer2-content {
+  width: 40%;
+}
+
+.container-para1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: var(--text-color);
+  line-height: 1.2;
+  letter-spacing: 1.2px;
+  font-weight: 500;
+}
+
+.container-para2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #000000;
+  line-height: 1.2;
+  letter-spacing: 1.2px;
+  font-weight: 500;
+}

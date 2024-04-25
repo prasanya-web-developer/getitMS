@@ -31,7 +31,7 @@ const Footer = () => (
             </Link>
           </ul>
         </div>
-        <div className="footer-content margin-adjust ">
+        <div className="footer-content margin-adjust">
           <h1>Products</h1>
           <ul>
             <Link to="#" className="link">
